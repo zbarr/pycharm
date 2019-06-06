@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e65d1155-9202-4d72-abc7-0964ad98570f" name="zbarr@192.168.70.99:22" url="http:///">
+        <fileTransfer host="192.168.70.99" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8aeae84e-366f-4956-90b7-67ff6043e6ee" name="zbarr@saltmaster03.concord.global:22" url="http:///">
+        <fileTransfer host="saltmaster03.concord.global" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
