@@ -6,6 +6,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="bb4cf015-e6c9-4e2c-8227-50777273eb52" name="hpc@ec2-18-220-193-248.us-east-2.compute.amazonaws.com:22" url="http:///">
+        <fileTransfer host="ec2-18-220-193-248.us-east-2.compute.amazonaws.com" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
