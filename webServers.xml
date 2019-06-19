@@ -11,6 +11,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c39add3a-024f-46a2-87dd-ddd2066c95cc" name="zbar@saltmaster01.concord.global" url="http://saltmaster01.concord.global">
+        <fileTransfer host="saltmaster01.concord.global" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
