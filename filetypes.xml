@@ -13,14 +13,16 @@
       <mapping pattern="ch6pslss010.yaml" type="PLAIN_TEXT" />
       <mapping pattern="pricefeeder-basic_lime_04" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="solarflare.sls" type="Python" />
       <mapping pattern="fpga.sls" type="Python" />
       <mapping pattern="ch0dsldv042" type="YAML" />
       <mapping pattern="app-builds" type="YAML" />
       <mapping ext="sls" type="YAML" />
       <mapping ext="conf" type="YAML" />
+      <removed_mapping ext="cfg" approved="true" type="Ini" />
     </extensionMap>
   </component>
 </application>
