@@ -18,6 +18,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping pattern="fpga.sls" type="Python" />
       <mapping pattern="solarflare.sls" type="Python" />
+      <mapping pattern="app-configs/applications/tradestudio/configs/tradestudio.exe.config" type="XML" />
       <mapping pattern="ch0dsldv042" type="YAML" />
       <mapping pattern="master" type="YAML" />
       <mapping pattern="app-builds" type="YAML" />
