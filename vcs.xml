@@ -102,6 +102,14 @@
           <option name="url" value="git@e7ch1git01:ops/glass.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://stash:7990" />
+          <option name="userName" value="zbarr" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://zbarr@stash:7990/scm/sup/glass.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zbarr\PycharmProjects" />
