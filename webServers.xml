@@ -37,6 +37,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1bb59772-4155-4d9a-b1a5-065038fa6021" name="zbarr@ch0pslop016.concord.global:22" url="http:///">
+        <fileTransfer host="ch0pslop016.concord.global" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
