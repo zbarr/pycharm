@@ -50,6 +50,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c985f1f2-e4cd-4b14-b368-ccf2dadeb5bb" name="ch0dsldv071" url="http://ch0dsldv071">
+        <fileTransfer host="ch0dsldv071" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
