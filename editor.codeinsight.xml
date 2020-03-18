@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
-    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-    <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
-  </component>
-</application>
