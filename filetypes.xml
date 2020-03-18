@@ -12,11 +12,11 @@
       <mapping pattern="pricefeeder-basic_tt_01" type="PLAIN_TEXT" />
       <mapping pattern="oc" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="ch6pslss010.yaml" type="PLAIN_TEXT" />
       <mapping pattern="pricefeeder-basic_lime_04" type="PLAIN_TEXT" />
       <mapping pattern="mongod" type="PLAIN_TEXT" />
       <mapping pattern="mongodb" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
-      <mapping pattern="ch6pslss010.yaml" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
@@ -28,14 +28,14 @@
       <mapping pattern="master" type="YAML" />
       <mapping pattern="ch0dsldv042" type="YAML" />
       <mapping pattern="app-builds" type="YAML" />
-      <mapping ext="aclpolicy" type="YAML" />
       <mapping ext="sls" type="YAML" />
       <mapping ext="conf" type="YAML" />
+      <mapping ext="aclpolicy" type="YAML" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
-      <removed_mapping pattern="app-configs/services/salt-master/configs/master" approved="true" type="YAML" />
-      <removed_mapping ext="aclpolicy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*master" approved="true" type="YAML" />
       <removed_mapping pattern="master" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="aclpolicy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="app-configs/services/salt-master/configs/master" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
